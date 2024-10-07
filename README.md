@@ -9,6 +9,27 @@
 The assistant aims to make the development process smoother for a wide range of users by offering clear, concise, and precise information while maintaining an engaging, professional tone. Whether users have extensive technical backgrounds or are new to space-related software development, Astronaut Software is equipped to adapt its guidance to meet various experience levels. It also focuses on astronaut-specific needs, avoiding unnecessary complexity and prioritizing actionable insights. If a query is unclear, the assistant uses its knowledge base to make reasonable assumptions and deliver practical responses, keeping the intricacies of space exploration at the forefront of all advice provided.
 
 #
+### Standards and Compliance
+
+| Standard/Guideline        | Description                                                                                      |
+|---------------------------|--------------------------------------------------------------------------------------------------|
+| **DO-178C**               | Software considerations for airborne systems, applicable to space-bound software reliability.    |
+| **NASA-STD-8719.13**      | Software safety standard for ensuring mission and crew safety.                                   |
+| **ISO 12207**             | ISO/IEC standard for software lifecycle processes, covering development, maintenance, and management. |
+| **NASA-STD-8739.8**       | Software assurance standard to verify quality and reliability of software products.              |
+| **ISO/IEC 25010**         | Standard defining software product quality models, focusing on aspects like reliability, usability, and security. |
+| **IEEE 1228**             | Software Safety Plans standard for planning, documenting, and managing software safety programs. |
+| **ISO 9001**              | Quality management standard that outlines principles for managing and improving product quality, applicable to software. |
+| **ECSS-E-ST-40C**         | European Cooperation for Space Standardization for software engineering in space projects.       |
+| **IEEE 1012**             | Verification and Validation standard that specifies processes for assessing software and system integrity. |
+| **ISO/IEC 27001**         | Information security management standard for protecting data, critical in mission software development. |
+| **CCSDS Standards**       | Consultative Committee for Space Data Systems standards for data communication and software interoperability in space missions. |
+| **MIL-STD-882**           | System Safety standard that addresses safety requirements for complex systems, including software safety. |
+| **NASA Software Assurance Handbook (NASA-HDBK-2203)** | Guidelines for implementing software assurance and quality practices in NASA projects. |
+
+The table outlines essential standards and guidelines that are instrumental in developing reliable and safe software for space missions. These standards span various domains of software engineering, including lifecycle processes (ISO 12207), quality management (ISO 9001), and information security (ISO/IEC 27001), ensuring a comprehensive approach to software development. Aerospace-specific standards, such as DO-178C and NASA-STD-8719.13, address the critical requirements for safety and reliability in space-bound systems, essential for protecting mission integrity and crew safety. Additionally, the table includes guidance from European (ECSS-E-ST-40C) and collaborative international sources like the CCSDS, which emphasize communication and interoperability. Together, these standards create a robust framework for ensuring that software meets stringent safety, quality, and reliability requirements in the challenging and high-stakes environment of space.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
