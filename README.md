@@ -1,4 +1,4 @@
-![Astronaut Software](https://github.com/user-attachments/assets/d82a382f-8070-44a4-9d4f-8b75e935d65c)
+![Astronaut](https://github.com/user-attachments/assets/1c6b4c28-994d-48ca-86da-33f91539bcf4)
 
 > Plan, develop, and test astronaut software or systems.
 
